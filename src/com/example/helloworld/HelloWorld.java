@@ -7,6 +7,6 @@ public class HelloWorld {
     }
 
     public static void feature(){
-        System.out.println("This is a feature");
+        System.out.println("Changed feature");
     }
 }
