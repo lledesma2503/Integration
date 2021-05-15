@@ -7,6 +7,6 @@ public class HelloWorld {
     }
 
     public static void feature(){
-        System.out.println("Changed feature");
+        System.out.println("Testing out feature branch");
     }
 }
